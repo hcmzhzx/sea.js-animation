@@ -1,0 +1,56 @@
+html,body,div,ul,ol,li,dl,dt,dd,form,input,textarea,table,h1,h2,h3,h4,p,span,a,em,i,img{margin: 0; padding: 0; font-style: normal;}
+body{font-family: '\5FAE\8F6F\96C5\9ED1',Arial,'\9ED1\4F53','\5B8B\4F53';}
+ul,ol{list-style: none;}
+table{border-collapse: collapse;}
+img{border: none;}
+blockquote{margin: 0; padding: 0;}
+a{color: #333; text-decoration: none;}
+a:hover{text-decoration: none; color: #000;}
+input,select,textarea{outline: none; padding: 4px; font: 1.4rem '\5FAE\8F6F\96C5\9ED1',Arial,'\9ED1\4F53','\5B8B\4F53'; -webkit-appearance: none; border-radius: 0;}
+input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{-webkit-appearance: none !important; margin: 0;}
+.clearfix:after{content: ''; display: block; clear: both; visibility: hidden;}
+/**********************section1************************/
+.current_1 .part_1{top:30%;left:0%;z-index: 4}
+.current_1 .part_right_1{top:30%;right:0%;z-index: 4}
+.current_1 .part_2{top:47.3%;left:0%;z-index:3}
+.current_1 .part_right_2{top: 47.3%;right:0%;z-index:3}
+.current_1 .part_3{top:64.6%;left:0%;z-index:2}
+.current_1 .part_right_3{top: 64.6%;right:0%;z-index:2}
+.current_1 .part_4{top:82%;left:0%;z-index:1}
+.current_1 .part_right_4{top: 82%;right:0%;z-index:1}
+/**********************section2************************/
+.current_2 .bj{top:32%;left: 0%;}
+.current_2 .part_1{top:36%;left:6%;}
+.current_2 .part_2{top:42%;right:6%;}
+.current_2 .part_3{top:51%;left:6%;}
+.current_2 .part_4{top:59%;right:6%;}
+.current_2 .part_5{top:68%;left:6%;}
+.current_2 .part_6{top:76%;right:6%;}
+.current_2 .part_7{top:84%;left:6%;}
+/**********************section3************************/
+.current_3 .bj{top:27%;left: 0%;z-index:1;}
+.current_3 .part_1{top:36%;left:10%;z-index:2;}
+.current_3 .part_2{top:56%;right:10%;z-index:2;}
+.current_3 .part_3{top:78%;left: 20%;z-index:2;}
+/**********************section4************************/
+.current_4 .part_1{top:40%;left:5%;}
+.current_4 .part_2{top:68%;left:5%;}
+/**********************section5************************/
+.current_5 .bj{top:45%;left: 14%;}
+.current_5 .part_1{top:40.5%;right:28.2%;}
+.current_5 .part_2{top:58.2%;left:6.3%;}
+.current_5 .part_3{top:70.5%;right:6.3%;}
+.current_5 .part_4{top:78.4%;left:31.3%;}
+/**********************section6************************/
+.current_6 .part_1{top:23.6%;left: 0%;}
+/**********************section7************************/
+.current_7 .part_1{}
+/**********************section8************************/
+.current_8 .bj{top:34%;left: 0%;}
+.current_8 .part_2{top:44%;left:30%;}
+/**********************section9************************/
+.current_9 .bj{top:28%;left: 0%;}
+.current_9 .part_1{top:33%;left:14%;}
+.current_9 .part_2{top:42%;right:16%;}
+.current_9 .part_3{bottom: 8%;left:6%}
+/********************** END ****************************/
